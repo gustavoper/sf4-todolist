@@ -17,7 +17,7 @@ Please remember that is a full backend app with some API routes for CRUD operati
 
 Also if you need to connect on the MYSQL docker instance, use
 
-`mysql -h 0.0.0.0 -u root -P 8180 -p`
+`mysql -h 0.0.0.0 -u root -P 13306 -p`
 
 You can see the password on the `docker-compose.yml` file as well.
 
